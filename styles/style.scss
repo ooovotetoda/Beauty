@@ -191,18 +191,20 @@ body {
 			align-items: center;
 			justify-content: space-evenly;
 
-			width: 255px;
-			height: 363px;
+			padding: 25px 30px;
+			margin-bottom: 20px;
 
 			background-color: #fff;
 
 			img {
 				width: 125px;
 				height: 166px;
+				margin-bottom: 20px;
 			}
 
 			.description {
 				width: 190px;
+				margin-bottom: 20px;
 
 				font-style: normal;
 				font-weight: 400;
@@ -214,6 +216,8 @@ body {
 			}
 
 			.price {
+				margin-bottom: 20px;
+
 				font-style: normal;
 				font-weight: 500;
 				font-size: 21px;
